@@ -1,0 +1,16 @@
+com/parsermessages/model/LoadApplications.java
+ com.parsermessages.model.LoadApplications
+com/fastloan/BuildConfig.java
+ com.fastloan.BuildConfig
+com/parsermessages/model/AppAdapter.java
+ com.parsermessages.model.AppAdapter
+com/parsermessages/model/Agent.java
+ com.parsermessages.model.Agent
+com/parsermessages/view/StartMainActivity.java
+ com.parsermessages.view.StartMainActivity
+ com.parsermessages.view.StartMainActivity$1
+ com.parsermessages.view.StartMainActivity$2
+com/parsermessages/MainActivity.java
+ com.parsermessages.MainActivity
+ com.parsermessages.MainActivity$1
+ com.parsermessages.MainActivity$2

@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-mdpi_img_no_notifications.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-mdpi/img_no_notifications.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_info_button.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-anydpi-v26/info_button.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_tab_list.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/tab_list.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_channel_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/ic_channel_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-mdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-mdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sort.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxhdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxhdpi_radio_button_checked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxhdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxhdpi_img_no_notifications.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxhdpi/img_no_notifications.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_radio_button_checked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxxhdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_info_button_background.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/info_button_background.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_info_button_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/info_button_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-mdpi_radio_button_checked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-mdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-mdpi_radio_button_unchecked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-mdpi/radio_button_unchecked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-hdpi_radio_button_checked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-hdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-hdpi_img_no_notifications.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-hdpi/img_no_notifications.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xhdpi_radio_button_checked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xhdpi/radio_button_checked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-hdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-hdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_button_style_two.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/button_style_two.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_info_button_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxhdpi/info_button_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_info_button_round.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-anydpi-v26/info_button_round.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xhdpi_radio_button_unchecked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xhdpi/radio_button_unchecked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_info_list.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/info_list.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_info_button_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxhdpi/info_button_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_channel.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/ic_channel.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-anydpi_info_button.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-anydpi/info_button.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sort.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-mdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/layout_start_activity_main.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/layout/start_activity_main.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xhdpi_tulen_logo.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xhdpi/tulen_logo.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-hdpi_radio_button_unchecked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-hdpi/radio_button_unchecked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-hdpi_info_button_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-hdpi/info_button_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxxhdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-hdpi_info_button_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-hdpi/info_button_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_channel.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-anydpi-v26/ic_channel.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_sort.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxxhdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-v24_arrow_arrows_back_direction_left_navigation_right_icon_123237.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-v24/arrow_arrows_back_direction_left_navigation_right_icon_123237.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xhdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xhdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-mdpi_info_button_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-mdpi/info_button_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_info_button_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/info_button_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_button_style.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/button_style.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-hdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-hdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_sort.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xhdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxhdpi_radio_button_unchecked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxhdpi/radio_button_unchecked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xhdpi_img_no_notifications.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xhdpi/img_no_notifications.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_info_credit_list.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/info_credit_list.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxxhdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxhdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxhdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_info_button_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxxhdpi/info_button_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-mdpi_info_button_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-mdpi/info_button_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxhdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_radio_button_unchecked.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxxhdpi/radio_button_unchecked.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_img_no_notifications.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-xxxhdpi/img_no_notifications.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xhdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xhdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable_button_style_black.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable/button_style_black.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/font_montserrat.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/font/montserrat.xml"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_info_button_foreground.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-xxxhdpi/info_button_foreground.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sort.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/drawable-hdpi/ic_sort.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-mdpi_info_button.png.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-mdpi/info_button.png"
+    },
+    {
+        "merged": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/samuilolegovich/Documents/VEDROID/ParserMessages/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Parser Messages</string>
+    <string name="contacts">КОНТАКТЫ</string>
+    <string name="license">ЛИЦЕНЗИЯ</string>
+    <string name="time">СРОК</string>
+    <string name="annual_percentage_rate">ГОДОВАЯ ПРОЦЕНТНАЯ СТАВКА</string>
+    <string name="terms_of_use"><u>Условия пользования</u></string>
+
+    <string name="borrower_requirements">Требования к заемщикам</string>
+    <string name="borrower_requirements_text1"> • Паспорт гражданина Украины</string>
+    <string name="borrower_requirements_text2"> • ИНН</string>
+    <string name="borrower_requirements_text3"> • Возраст: старше 18 лет</string>
+    <string name="borrower_requirements_text4"> • Карта любого банка Украины</string>
+
+    <string name="conditions_for_obtaining_a_loan">Условия получения займа</string>
+    <string name="conditions_for_obtaining_a_loan_text1"> • Минимальный срок кредитования: 61 дней</string>
+    <string name="conditions_for_obtaining_a_loan_text2"> • Максимальный срок кредитования: 365 день</string>
+    <string name="conditions_for_obtaining_a_loan_text3"> • Минимальная ставка за пользование кредитом: 0.1% в день</string>
+    <string name="conditions_for_obtaining_a_loan_text4"> • Максимальная ставка за пользование кредитом: 1% в день</string>
+    <string name="conditions_for_obtaining_a_loan_text5"> • Максимальная годовая процентная ставка (APR): 365%</string>
+    <string name="conditions_for_obtaining_a_loan_text6"> • Штраф за просрочку: 0.10% в день</string>
+    <string name="conditions_for_obtaining_a_loan_text7"> • Другие комиссии или сборы: отсутствуют</string>
+
+    <string name="loan_calculation_example">Пример расчета займа</string>
+    <string name="loan_calculation_example_text1"> • Сумма и срок займа: 12000 гривен на 149 дней</string>
+    <string name="loan_calculation_example_text2"> • Комиссия за пользование кредитом: 1% в день (120 гривен/день)</string>
+    <string name="loan_calculation_example_text3"> • Общая сумма комиссии: 17880 гривен</string>
+    <string name="loan_calculation_example_text4"> • Общая сумма к возврату с учетом суммы займа: 29880 гривен</string>
+    <string name="loan_calculation_example_text5"> • ПСК (полная стоимость кредита) в процентах составляет 149% годовых</string>
+
+    <string name="prolongation">Пролонгация</string>
+    <string name="prolongation_text1"> • Заемщик имеет право на продление срока оплаты по кредиту.</string>
+    <string name="prolongation_text2"> • При этом необходимо оплатить только проценты за пользование\nсредствами.</string>
+
+    <string name="consequences_of_non_payment_of_a_loan">Последствия невыплаты займа</string>
+    <string name="consequences_of_non_payment_of_a_loan_text"> • В случае нарушения сроков выплаты онлайн займа, размер неустойки может составить 0,10% от общей суммы просрочки в день, но не более 10% от суммы всего кредита.</string>
+</resources>
